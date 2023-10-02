@@ -1,0 +1,15 @@
+.oculta {
+  display: none;
+}
+.exibeLinha {
+  display: block;
+}
+.detalhes {
+  width: 380px;
+}
+.oculta {
+  display: none;
+}
+.exibe {
+  display: inline;
+}
